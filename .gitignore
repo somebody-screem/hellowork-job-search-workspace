@@ -1,0 +1,11 @@
+# 求職者の入力と求人結果はローカルだけで管理する
+/input/
+/求人候補/
+
+# 認証情報と端末固有のファイル
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+desktop.ini
